@@ -1,4 +1,4 @@
-### Hi there 👋 My namme is Elen
+### Hi there 👋 My name is Elen
 
 <!--
 **Elntnc/Elntnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
